@@ -27,6 +27,8 @@ Create a `.env` file in the root directory of the project and add your own API k
 ```env
 OPENWEATHER_API_KEY=your_openweather_api_key_here
 PIXABAY_API_KEY=your_pixabay_api_key_here
-
+```
+## Sample Screenshot
+![Sample Screenshot](/static/sample.jpg)
 Feel free to share suggestions or improvements at:
 sp25-bse-118@cuilahore.edu.pk
