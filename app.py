@@ -31,9 +31,7 @@ def search():
     else:
         weather_data="Invalid City"
 
-
-
-    #IMAGE
+    #IMAGE Section
     if weather_data=="Invalid City":
         city="sarcastic+funny+fail"
     else:
