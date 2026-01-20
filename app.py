@@ -50,5 +50,5 @@ def search():
     return render_template("index.html", weather=weather_data,city_image=city_image)
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))  # Use Railway's PORT
+    port = int(os.environ.get("PORT", 8080))  # Railway provides PORT dynamically
     app.run(host="0.0.0.0", port=port, debug=False)
